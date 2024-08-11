@@ -1,0 +1,1 @@
+print(max(1, 1000, "sujata","error program"))
